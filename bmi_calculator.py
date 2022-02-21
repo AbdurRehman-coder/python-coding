@@ -1,3 +1,4 @@
+#This program will calculate the BMI
 
 # Arshad BMI
 name1 = 'Arshad Ali'
@@ -29,3 +30,14 @@ person3 = calculate_bmi(name3, height_m3, weight_kg3)
 print(person1)
 print(person2)
 print(person3)
+
+
+# THis program will convert miles into kilometer
+def convert(miles) :
+    print(f'Kilometer: {miles * 1.6}')
+    return f'Kilometer: {miles * 1.6 }'
+
+km1 = convert(2)
+print(km1)
+
+
