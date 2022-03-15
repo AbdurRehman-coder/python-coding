@@ -31,3 +31,4 @@ calculate_time_func(converted_user_input)
 
 return_value = calculate_time_return(converted_user_input)
 print(return_value )
+45
