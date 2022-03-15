@@ -1,0 +1,2 @@
+(1).  
+[00:28:40] Why 2**3 work in terminal, [Math]::pow(2,3), ans: 8 Q ka terminal asterisk ko nahe janatha tho power malom karana kala phyala huma us kala Math ka library import karana hoga aur per us sa pow ka function us karana hoga. 
